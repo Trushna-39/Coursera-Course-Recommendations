@@ -12,6 +12,7 @@ The goal of this project is to build a recommendation system that suggests cours
 
 ## Dataset
 
+For this project, the dataset I have used is "Coursera Courses Dataset" from Kaggle: https://www.kaggle.com/datasets/khusheekapoor/coursera-courses-dataset-2021 <br/><br/>
 The dataset contains the following columns:
 - **Course Name**: Title of the course.
 - **Course Description**: Detailed information about the course.
